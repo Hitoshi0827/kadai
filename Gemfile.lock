@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    str_convert_utils (0.1.0)
+      thor
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.0.6)
+    thor (1.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.16)
+  rake (~> 13.0)
+  str_convert_utils!
+
+BUNDLED WITH
+   1.17.3
